@@ -43,6 +43,7 @@ class Developer:
             if self.skills >= "Senior Dev":
                 self.apply_for_internship()
 <div align="center">
+```
 🛠️ Tech Stack & Arsenal
 <!-- Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=flat&logo=hack-the-box&logoColor=red" /> </div>
 💭 The Lore: How I Got Here
