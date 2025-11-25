@@ -1,58 +1,73 @@
-<img align="right" src="https://github.com/user-attachments/assets/YOUR-IMAGE-LINK-HERE" width="370" alt="cool hacker vibe"/>
+<div align="center">
 
-<!-- Replace the link above with a cool photo/banner of yourself or a cyber aesthetic image (upload to github or imgur) -->
-> 17 | Bachelor of Information Technology @ [Your Uni Name]
-> From Roblox cheats → real code
-> if (youre_reading_this) { hire_me(); }
+<!-- Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D5EFF&center=true&vCenter=true&width=500&lines=Ex-Roblox+Scripter+%F0%9F%98%88;Future+Software+Engineer+%F0%9F%9A%80;Student+@+[Your+Uni+Name];if+(youre_reading_this)+hire_me();" alt="Typing SVG" />
+</a>
 
+<h3>17 | Bachelor of Information Technology @ [Your Uni Name]</h3>
+<p><i>From injecting DLLs for fun to injecting dependencies for production.</i></p>
 
+<!-- Socials -->
+<p>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-  https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
-  https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true
+</div>
 
+---
 
+### 👨‍💻 Currently Hacking On
+```python
+class Developer:
+    def __init__(self):
+        self.age = 17
+        self.origin = "Roblox Lua (Synapse X / Krnl)"
+        self.current_focus = "Python & Low-Level"
+    
+    def daily_routine(self):
+        while self.is_alive:
+            self.learn_new_tech()
+            self.break_old_games() # Old habits die hard 🤷‍♂️
+            self.build_useful_stuff()
+            
+            # TODO: Get hired
+            if self.skills >= "Senior Dev":
+                self.apply_for_internship()
+<div align="center">
+🛠️ Tech Stack & Arsenal
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=flat&logo=hack-the-box&logoColor=red" />
+</div>
+💭 The Lore: How I Got Here
+Started scripting Roblox cheats at 13 → Learned Lua inside out to bypass anti-cheats → Broke into Python → Now studying a Bachelor of IT while building real projects instead of just owning noobs in Arsenal. 😭
 
-🔥 Currently Hacking On
-Pythonwhile alive:
-    learn_new_thing()
-    break_old_roblox_games()  # old habits die hard
-    build_actually_useful_stuff()
-🛠️ Tech Stack & Tools
-Python
-Lua
-JavaScript
-HTML5
-CSS3
-SQL
+<br/>
+<div align="center">
+<!-- Stats Section -->
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/>
+![alt text](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9d5eff&style=flat-square)
 
-
-
-Main weapons: Python • Lua • JavaScript • HTML/CSS • SQL
-Learning/Upcoming: Go, Rust, Reverse Engineering, Low-Level Stuff
-💭 How I Got Here
-Started scripting Roblox cheats at 13 → learned Lua inside out → broke into Python → now studying a Bachelor of IT while building real projects instead of just owning noobs in Arsenal 😭
-
-
-📈 Most Used Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
-
-
-📫 Reach Me Faster Than My Old Executor Loaded
-
-Discord
-Twitter/X
-YouTube
-Instagram
-
-
-
-
-  profile views
-
-
-
-“I used to inject DLLs for fun, now I inject clean code into production.”
-
-
-
-  https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D5EFF&center=true&vCenter=true&width=500&lines=Ex-Roblox+scripter+%F0%9F%98%88;Full-time+Python+addict;Send+me+internships+pls+%F0%9F%99%8F
+</div>
