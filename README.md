@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D5EFF&center=true&vCenter=true&width=500&lines=Ex-Roblox+Scripter+%F0%9F%98%88;Future+Software+Engineer+%F0%9F%9A%80;Student+@+[Your+Uni+Name];if+(youre_reading_this)+hire_me();" alt="Typing SVG" />
 </a>
 
-<h3>17 | Bachelor of Information Technology @ [Your Uni Name]</h3>
+<h3>17 | Bachelor of Information Technology</h3>
 <p><i>From injecting DLLs for fun to injecting dependencies for production.</i></p>
 
 <!-- Socials -->
@@ -49,8 +49,3 @@ class Developer:
 💭 The Lore: How I Got Here
 Started scripting Roblox cheats at 13 → Learned Lua inside out to bypass anti-cheats →
 Broke into Python → Now studying a Bachelor of IT while building real projects
-instead of just owning noobs in Arsenal. 😭
-
-<div align="center">
-📊 GitHub Stats
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </td> </tr> </table> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9d5eff&style=flat-square" /> </div> ```
