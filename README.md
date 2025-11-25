@@ -2,7 +2,7 @@
 
 <!-- Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D5EFF&center=true&vCenter=true&width=500&lines=Ex-Roblox+Scripter+%F0%9F%98%88;Future+Software+Engineer+%F0%9F%9A%80;Student+@+[Your+Uni+Name];if+(youre_reading_this)+hire_me();" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=9D5EFF&center=true&vCenter=true&width=500&lines=Ex-Roblox+Scripter+%F0%9F%98%88;Future+Software+Engineer+%F0%9F%9A%80;Information+Technology+Student;If+you're+reading+this,+hire+me!+" alt="Typing SVG" />
 </a>
 
 <h3>17 | Bachelor of Information Technology</h3>
