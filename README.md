@@ -10,9 +10,15 @@
 
 <!-- Socials -->
 <p>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/YOUR_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -30,45 +36,20 @@ class Developer:
     def daily_routine(self):
         while self.is_alive:
             self.learn_new_tech()
-            self.break_old_games() # Old habits die hard 🤷‍♂️
+            self.break_old_games()  # Old habits die hard 🤷‍♂️
             self.build_useful_stuff()
-            
+
             # TODO: Get hired
             if self.skills >= "Senior Dev":
                 self.apply_for_internship()
 <div align="center">
-```
 🛠️ Tech Stack & Arsenal
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=flat&logo=hack-the-box&logoColor=red" />
-</div>
+<!-- Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=flat&logo=hack-the-box&logoColor=red" /> </div>
 💭 The Lore: How I Got Here
-Started scripting Roblox cheats at 13 → Learned Lua inside out to bypass anti-cheats → Broke into Python → Now studying a Bachelor of IT while building real projects instead of just owning noobs in Arsenal. 😭
+Started scripting Roblox cheats at 13 → Learned Lua inside out to bypass anti-cheats →
+Broke into Python → Now studying a Bachelor of IT while building real projects
+instead of just owning noobs in Arsenal. 😭
 
-<br/>
 <div align="center">
-<!-- Stats Section -->
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<br/>
-![alt text](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9d5eff&style=flat-square)
-
-</div>
+📊 GitHub Stats
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </td> </tr> </table> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <br/> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9d5eff&style=flat-square" /> </div> ```
