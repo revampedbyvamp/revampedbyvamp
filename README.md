@@ -37,6 +37,7 @@ class Developer:
             if self.skills >= "Senior Dev":
                 self.apply_for_internship()
 <div align="center">
+```
 🛠️ Tech Stack & Arsenal
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
