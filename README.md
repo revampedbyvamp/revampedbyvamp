@@ -10,7 +10,7 @@
 
 <!-- Socials -->
 <p>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/devamped" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
