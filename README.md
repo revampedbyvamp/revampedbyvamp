@@ -58,4 +58,4 @@ class Developer:
 
 💭 The Lore: How I Got Here
 Started scripting Roblox cheats at 13 → Learned Lua inside out to bypass anti-cheats →
-Broke into Python → Now studying a Bachelor of IT while building real projects
+Broke into Python → Now studying a Bachelor of AI while building real projects
