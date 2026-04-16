@@ -26,7 +26,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.age = 17
+        self.age = 18
         self.origin = "Roblox Lua (Synapse X / Krnl)"
         self.current_focus = "Python & Low-Level"
     
